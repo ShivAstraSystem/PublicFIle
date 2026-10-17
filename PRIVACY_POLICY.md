@@ -63,4 +63,4 @@ You have complete control over your data at all times:
 If you have any questions or feedback regarding this Privacy Policy, please contact:
 - **Developer / Publisher:** ShivAstra System
 - **Website:** [https://shivastarsystem.com](https://shivastarsystem.com)
-- **Email:** support@shivastarsystem.com
+- **Email:** info@shivastarsystem.com
